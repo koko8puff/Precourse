@@ -1,0 +1,37 @@
+
+img {
+  width: 400px;
+}
+
+body{
+  background: black;
+  color: pink;
+}
+
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: maroon;
+  padding: 50px;
+  border: 2px solid pink;
+  margin: 50px;
+}
+
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
+
+p{
+  font-size: 18px;
+  font-style: italic;
+  font-weight: bold;
+}
+.divClass{
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
